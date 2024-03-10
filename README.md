@@ -1,10 +1,10 @@
 - 👋 Hi,diksha
-- 👀 data science...
+- 👀 intrested data science...
 - 🌱 i am currently doing engineering...
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me dikshathombare90@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: every is in the same boat!!!
+- ⚡ Fun fact: everyone is in the same boat!!!
 
 <!---
 motod/motod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
